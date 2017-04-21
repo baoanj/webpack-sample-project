@@ -1,8 +1,6 @@
 # Webpack Sample Project
 
----
-
-## Run this Sample
+## Run this example
 
 > npm install
 
@@ -11,8 +9,6 @@
 > npm run server
 
 > visit http://127.0.0.1:8080/
-
----
 
 ## Reference
 
